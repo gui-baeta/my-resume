@@ -1,0 +1,8 @@
+# direnv things
+.envrc
+.direnv
+
+# builds dir
+result
+
+**.pdf
